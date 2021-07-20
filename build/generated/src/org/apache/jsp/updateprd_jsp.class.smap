@@ -1,0 +1,15 @@
+SMAP
+updateprd_jsp.java
+JSP
+*S JSP
+*F
++ 0 updateprd.jsp
+updateprd.jsp
+*L
+5,30:45
+34,7:75
+42,3:83
+44,12:86
+56,51:99
+106,5:150
+*E
